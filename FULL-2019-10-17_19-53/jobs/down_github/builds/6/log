@@ -1,0 +1,7 @@
+Started by user [8mha:////4D+FpYUbO+jlRg3x1rA1F0B/gTJH7zjFnNTgXhCcetvfAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgY+/dLi1CL9rOT8opLUqiQAP3HGtMMAAAA=[0mJosé Cortez
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/down_github
+[down_github] $ /bin/sh -xe /tmp/jenkins2703692759862380925.sh
++ git clone https://github.com/jcortezbon/DevOps.git
+Cloning into 'DevOps'...
+Finished: SUCCESS
